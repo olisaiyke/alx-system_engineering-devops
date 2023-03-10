@@ -1,2 +1,2 @@
 #!/bin/bash
--rwxrwxr-- 1 root root 21 Mar  9 11:20  hello
+Chmod ug+x hello
